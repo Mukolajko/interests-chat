@@ -1,0 +1,20 @@
+{
+  "name": "interests-chat",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Mukolajko <borusyuk_kolya@ukr.net>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Mukolajko/interests-chat",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
