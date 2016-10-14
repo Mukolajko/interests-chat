@@ -1,0 +1,10 @@
+{
+  "port": 9500,
+  "dataStores": {
+    "host": "localhost",
+    "port": 27017,
+    "username": null,
+    "password": null,
+    "mongoDB": "chat"
+  }
+}
